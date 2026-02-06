@@ -8,6 +8,4 @@ Université de Jijel – 2025/2026
 - Partie 2 : Exploration de la plateforme Zenodo
 - Bonus : Publication du rapport sur GitHub
 
- Auteurs
-- maria youla
-- Bouredjem Nesrine                                                  
+                                                
